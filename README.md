@@ -4,3 +4,4 @@
 - Under the hood, React and Firebase. Plans to rewrite everything to TypeScript. 💻  
 - All comments can (and should) be sent to fender02297@gmail.com. 📬  
 - You can also write to me in the telegram https://t.me/TheSilentComedy. ✍
+- Also a little of my code https://github.com/Amalthea-code/-CodExamples. 👨‍💻
